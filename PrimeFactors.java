@@ -18,8 +18,8 @@ import java.util.Scanner;
             number = number/i;
          }
       }
-      if(number >2) {
-         System.out.println(number);
-      }
+     // if(number >2) {
+       //  System.out.println(number);
+     // }
    }
 }
